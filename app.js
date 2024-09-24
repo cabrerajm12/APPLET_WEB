@@ -7,7 +7,7 @@ let number = 15;
 //boolean
 let inCorrect = true;
 
-//undefined
+//undefineds
 let surname;
 
 //null
